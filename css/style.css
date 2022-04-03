@@ -1,0 +1,130 @@
+/* common */
+
+img {
+  vertical-align: bottom;
+}
+a {
+  text-decoration: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+/* header */
+
+header {
+  background: rgb(73, 69, 41);
+}
+
+header .container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 4px 0;
+  display: flex;
+  align-items: center;
+}
+
+header .container div + div {
+  margin-left: 60px;
+}
+
+header h1 {
+  color: yellow;
+  font-weight: bold;
+  font-size: 48px;
+  font-family: verdana,'Arial Black', メイリオ, sans-serif;
+}
+
+.lineupdown {
+  background-color: rgb(196, 189, 151);
+  height: 32px;
+}
+
+body {
+  /* background-color: blanchedalmond; */
+  background-image: url(../img/ICON/kabe4.png);
+}
+
+/* main */
+
+main .container1 {
+  background-color: blanchedalmond;
+  width: 800px;
+  margin: 0 auto;
+  outline: 2px solid rgb(73,69,41);
+  border-radius: 20px;
+  margin-top: 120px;
+  margin-bottom: 80px;
+}
+
+main .container2 {
+  background-color: blanchedalmond;
+  width: 800px;
+  margin: 0 auto;
+  outline: 2px solid rgb(73,69,41);
+  border-radius: 20px;
+  margin-bottom: 80px;
+}
+
+
+
+main h2 {
+  text-align: center;
+  padding-top: 16px;
+}
+
+main p {
+  font-size: 20px;
+  line-height: 1.8;
+  padding: 0px 16px 16px;
+}
+
+main h1 {
+  width: 360px;
+  height: 240px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 80px;
+}
+
+main table {
+  background-color: #fff;
+  width: 800px;
+  margin: auto;
+  margin-bottom: 80px;
+  font-size: 20px;
+  line-height: 1.8;
+}
+
+table td {
+  border: 1px solid rgb(173, 172, 172);
+  padding: 8px 24px;
+}
+
+main ul {
+  font-size: 20px;
+  line-height: 1.8;
+  padding: 0px 64px 16px;
+}
+
+main .container1 div {
+  text-align: center;
+  padding-bottom: 24px;
+}
+
+/* container7 stageansor */
+
+main .container7 {
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* footer */
+
+footer {
+
+  margin-left: 60px;
+  font-size: 24px;
+  font-weight: bold;
+}
