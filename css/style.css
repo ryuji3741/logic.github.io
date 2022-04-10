@@ -9,7 +9,7 @@ body {
   margin: 0 auto;
 }
 
-img {
+.container1 img {
   max-width: 100%;
   height: auto;
   margin-right: 4px;
