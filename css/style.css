@@ -60,7 +60,8 @@ body {
 
 main .container1 {
   background-color: blanchedalmond;
-  width: 800px;
+  max-width: 800px;
+  width: 100%;
   margin: 0 auto;
   outline: 2px solid rgb(73,69,41);
   border-radius: 20px;
@@ -70,7 +71,8 @@ main .container1 {
 
 main .container2 {
   background-color: blanchedalmond;
-  width: 800px;
+  max-width: 800px;
+  width: 100%;
   margin: 0 auto;
   outline: 2px solid rgb(73,69,41);
   border-radius: 20px;
@@ -100,7 +102,8 @@ main h1 {
 
 main table {
   background-color: #fff;
-  width: 800px;
+  max-width: 800px;
+  width: 100%;
   margin: auto;
   margin-bottom: 80px;
   font-size: 20px;
