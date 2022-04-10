@@ -133,14 +133,13 @@ main .container1 div {
 /* container7 stageansor */
 
 main .container7 {
-  font-size: 30px;
   font-weight: bold;
   margin: 0 auto;
   text-align: center;
 }
 
 main .container7 td {
-  height: 490px;
+  height: 497px;
 }
 
 /* footer */
