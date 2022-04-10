@@ -10,6 +10,9 @@ body {
 }
 
 img {
+  max-width: 100%;
+  height: auto;
+  padding: 16px;
   vertical-align: bottom;
 }
 a {
@@ -42,7 +45,7 @@ header .container div + div {
 header h1 {
   color: yellow;
   font-weight: bold;
-  font-size: 48px;
+  font-size: 36px;
   font-family: verdana,'Arial Black', メイリオ, sans-serif;
 }
 
