@@ -4,9 +4,10 @@ body {
   margin: 0;
 }
 
-.container {
+.container img {
   width: calc(100% -32px);
-  margin: 0 auto;
+  height: auto;
+  margin: 16px auto;
 }
 
 .container1 img {
@@ -15,6 +16,7 @@ body {
   margin-right: 4px;
   vertical-align: bottom;
 }
+
 a {
   text-decoration: none;
 }
@@ -105,8 +107,6 @@ main h1 {
 
 main table {
   background-color: #fff;
-  max-width: 800px;
-  width: 100%;
   margin: auto;
   margin-bottom: 80px;
   font-size: 20px;
