@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-.container img {
+.container img { 
   width: calc(100% -32px);
   height: auto;
   margin: 16px auto;
@@ -33,11 +33,12 @@ header {
 
 header .container {
   /* width: 1200px; */
-  width: 80%;
+  width: 100%;
   margin: 0 auto;
   padding: 0 4px;
   display: flex;
   align-items: center;
+  
 }
 
 header .container div + div {
@@ -84,8 +85,6 @@ main .container2 {
   margin-bottom: 80px;
 }
 
-
-
 main h2 {
   text-align: center;
   padding-top: 16px;
@@ -106,6 +105,7 @@ main h1 {
 }
 
 main table {
+  width: 600px;
   background-color: #fff;
   margin: auto;
   margin-bottom: 80px;
