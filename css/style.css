@@ -35,9 +35,10 @@ header .container {
   /* width: 1200px; */
   width: 100%;
   margin: 0 auto;
-  padding: 0 4px;
+  padding: 0 16px;
   display: flex;
   align-items: center;
+  justify-content: center
   
 }
 
