@@ -11,7 +11,7 @@ body {
 }
 
 .container1 img {
-  max-width: 100%;
+  max-width: 95%;
   height: auto;
   margin-right: 4px;
   vertical-align: bottom;
@@ -33,7 +33,7 @@ header {
 
 header .container {
   /* width: 1200px; */
-  width: 100%;
+  width: 95%;
   margin: 0 auto;
   padding: 0 16px;
   display: flex;
@@ -68,7 +68,7 @@ body {
 main .container1 {
   background-color: blanchedalmond;
   max-width: 800px;
-  width: 100%;
+  width: 95%;
   margin: 0 auto;
   outline: 2px solid rgb(73,69,41);
   border-radius: 20px;
@@ -79,7 +79,7 @@ main .container1 {
 main .container2 {
   background-color: blanchedalmond;
   max-width: 800px;
-  width: 100%;
+  width: 95%;
   margin: 0 auto;
   outline: 2px solid rgb(73,69,41);
   border-radius: 20px;
@@ -88,7 +88,7 @@ main .container2 {
 
 main h2 {
   text-align: center;
-  padding-top: 16px;
+  padding: 16px;
 }
 
 main p {
@@ -106,7 +106,8 @@ main h1 {
 }
 
 main table {
-  width: 600px;
+  max-width: 800px;
+  width:100%;
   background-color: #fff;
   margin: auto;
   margin-bottom: 80px;
