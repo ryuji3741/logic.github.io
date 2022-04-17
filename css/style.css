@@ -144,6 +144,14 @@ main .container7 td {
   height: 497px;
 }
 
+/* aside */
+
+aside {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 /* footer */
 
 footer {
