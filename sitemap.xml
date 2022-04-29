@@ -1,41 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-<!--  created with free sitemap generation system www.sitemapxml.jp  --> 
+
 <url>
   <loc>https://ryuji3741.github.io/logic.github.io/</loc>
-  <priority>1.0</priority>
-  <lastmod>2022-04-17T11:41:08+09:00</lastmod>
+  <lastmod>2022-04-29T09:31:43+00:00</lastmod>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>https://ryuji3741.github.io/logic.github.io/KC001.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2022-04-17T11:41:08+09:00</lastmod>
+  <lastmod>2022-04-29T09:31:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ryuji3741.github.io/logic.github.io/KC002.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2022-04-17T11:41:08+09:00</lastmod>
+  <lastmod>2022-04-29T09:31:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ryuji3741.github.io/logic.github.io/KC003.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2022-04-17T11:41:08+09:00</lastmod>
+  <lastmod>2022-04-29T09:31:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ryuji3741.github.io/logic.github.io/TT01.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2022-04-17T11:41:08+09:00</lastmod>
+  <lastmod>2022-04-29T09:31:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ryuji3741.github.io/logic.github.io/TT02.html</loc>
-  <priority>0.8</priority>
-  <lastmod>2022-04-17T11:41:08+09:00</lastmod>
+  <lastmod>2022-04-29T09:31:43+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>https://ryuji3741.github.io/logic.github.io/index.html</loc>
-  <priority>0.7</priority>
-  <lastmod>2022-04-17T11:41:08+09:00</lastmod>
+  <lastmod>2022-04-29T09:31:43+00:00</lastmod>
+  <priority>0.64</priority>
 </url>
+
 
 </urlset>
