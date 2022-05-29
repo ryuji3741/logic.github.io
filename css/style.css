@@ -60,7 +60,7 @@ header h1 {
 
 body {
   /* background-color: rgb(231, 220, 189); */
-  background-image: url(https://ryuji3741.github.io/logic.github.io/img/ICON/kabe4.png);
+  background-image: url(https://ryuji3741.github.io/logicAM1.github.io/img/ICON/kabe4.png);
 }
 
 /* main */
@@ -115,6 +115,12 @@ main table {
   line-height: 1.8;
 }
 
+table th {
+  border: 1px solid rgb(173, 172, 172);
+  padding-left: 16px;
+  height: auto;
+}
+
 table td {
   border: 1px solid rgb(173, 172, 172);
   padding-left: 16px;
@@ -142,14 +148,6 @@ main .container7 {
 
 main .container7 td {
   height: 497px;
-}
-
-/* aside */
-
-aside {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 /* footer */
