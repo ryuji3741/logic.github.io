@@ -150,6 +150,10 @@ main .container7 td {
   height: 497px;
 }
 
+main aside {
+  text-align: center;
+}
+
 /* footer */
 
 footer {
